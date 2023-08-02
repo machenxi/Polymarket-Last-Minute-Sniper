@@ -22,6 +22,8 @@ Welcome to SolanaArtGuard, your gateway to a new era of trust and confidence in 
 
 **For Everyone, Everywhere**
 
+https://ai-powered-nft-authenticator.framer.ai
+
 SolanaArtGuard is built for everyone, whether you're a seasoned crypto enthusiast or new to the world of NFTs. We believe that art should be accessible and appreciated by all.
 
 **Be Part of the Prototype**
